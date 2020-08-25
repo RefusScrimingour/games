@@ -1,2 +1,2 @@
-# TRAP.P
- a game I made in grade 5
+# games
+ a collection of games I made in primary school

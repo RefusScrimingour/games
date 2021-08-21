@@ -1,2 +1,6 @@
-# games
- a collection of games I made in primary school
+# Games from Primary School!
+This is a pretty nostalgic repository if I do say so myself. My first intro to programming was back in Grade 3, when I created a game using GameMaker Studio 2, called Hydra. Before that, I'd done drag and drop robotics with VEX IQ (I got 2nd place in nationals for Bank Shot) and messed around with other drag and drop, but I hadn't really *created* anything when it came to software. <br>
+This repository serves as a collection of what I could find on my old hard drive, and is mainly here for archival purposes. It is most likely that none of these games will ever be touched again.
+
+## Hydra
+This was the first game I made, way back when in Grade 3. It was honestly quite a messy game, but to this day I'm still pretty proud of it, considering that it was the first thing I ever made. You start the game with WASD, and you have to move to the right to the that big laserbeam. The rest of the game is basically a bad Geometry Dash knockoff, where you use the space bar to jump and avoid obstacles. There are technically two levels, but I haven't seen anyone who's ever completed both of them. There also is *supposed* to be music, but it doesn't seem like that loads properly in the web export. *sad*
